@@ -3,10 +3,10 @@
   "services": [
     {
       "type": "endpoint",
-      "name": "development",
-      "endpoint": "http://localhost:3978/api/messages",
-      "appId": "",
-      "appPassword": "",
+      "name": "production",
+      "endpoint": "https://subwai-test-bot.azurewebsites.net/api/messages",
+      "appId": "9427d675-c374-4485-b0fd-3d61b6aba75e",
+      "appPassword": "maahcG61]%hhVUUGJC399%",
       "id": "1"
     }
   ],
